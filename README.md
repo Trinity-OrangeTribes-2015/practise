@@ -1,0 +1,1 @@
+This repo is intended for practising the use of Git and front-end technology
